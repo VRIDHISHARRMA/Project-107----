@@ -1,0 +1,68 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@VRIDHISHARRMA 
+VRIDHISHARRMA
+/
+Project-107
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Project-107/style.css
+@VRIDHISHARRMA
+VRIDHISHARRMA Add files via upload
+Latest commit 7bf6243 17 days ago
+ History
+ 1 contributor
+39 lines (35 sloc)  623 Bytes
+
+body 
+{
+font-family: 'Special Elite',cursive ;
+background-color: #f5dbda;
+}
+
+.header_div
+{
+background: white;
+color: #ce2700;
+}
+
+.header_div p{
+font-family: 'Roboto',sans-serif;
+color: gray;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button{
+font-family: 'Roboto',sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+.copy_right_footer {
+position: fixed;
+color: #6c757d;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: #f5f5f5 ;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px  rgb(151, 149, 149)
+}
